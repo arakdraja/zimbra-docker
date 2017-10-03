@@ -1,5 +1,5 @@
 # Zimbra
-In this Repository you will find different Zimbra Scripts.
+In this Repository you will find different Zimbra Scripts. Please note that Zimbra is working on Docker as well in the upstream: https://github.com/Zimbra/zm-docker
 
 # Docker
 ## Install Docker
